@@ -1,0 +1,27 @@
+/*
+Cascading sheet
+*/
+.App {
+  text-align: center;
+  color: seagreen;
+  stroke: slategrey;
+  font-style: unset;
+  font-family: monospace;
+  padding-top: 10%;
+}
+
+button{
+  
+  margin: 10px;
+  font-weight: bold;
+  color: brown;
+  font-size: 40px;
+  
+  
+}
+.Result{
+  font-size: 20px;
+  color:blue;
+}
+
+
