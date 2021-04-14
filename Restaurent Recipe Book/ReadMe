@@ -9,7 +9,7 @@
                 -> beside this a + Button is placed to add the category to the dropdown
                   -> when we click the + button it will show a input box and a button to add to the category
               -> Food Name - input box to give the name of the food
-              XXXXXXX
+             Bootstrap is used to make the application dynamic in nature
           
             -> CSS FILE FOR DESIGNING PART
             -> .JS FILE FOR REACT CODE
